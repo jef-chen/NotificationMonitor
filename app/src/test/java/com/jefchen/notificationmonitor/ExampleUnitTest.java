@@ -1,4 +1,4 @@
-package com.tencent.jefchen.notificationmonitor;
+package com.jefchen.notificationmonitor;
 
 import org.junit.Test;
 

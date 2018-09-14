@@ -1,4 +1,4 @@
-package com.tencent.jefchen.notificationmonitor;
+package com.jefchen.notificationmonitor;
 
 import android.app.Notification;
 import android.app.PendingIntent;

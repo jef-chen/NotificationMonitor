@@ -1,7 +1,6 @@
-package com.tencent.jefchen.notificationmonitor;
+package com.jefchen.notificationmonitor;
 
 import android.app.ActivityManager;
-import android.app.Notification;
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
 import android.content.BroadcastReceiver;
